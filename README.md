@@ -16,3 +16,22 @@ One of the highlights of our website is the integration of an intelligent Health
 Our commitment to your well-being extends beyond just information. We believe that every individual's health journey is unique. That's why our website is designed to personalize your experience. By combining the insights from our Health Bot with the expertise of medical professionals, we can offer tailored recommendations and suggestions that align with your specific needs and goals.
 
 Explore our user-friendly interface to discover a wide range of topics, including nutrition, fitness, mental health, preventive care, and much more. Whether you're a seasoned health enthusiast or just beginning to prioritize your wellness, our website caters to all levels of knowledge and interest.
+
+#SCREENSHOTS
+HOME
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/413ce461-59f6-4d30-a0f3-14f9134cbdfc)
+ABOUT
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/908594e0-5f88-45be-a735-dfce58b8b77d)
+BLOG
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/ce71a77c-b56f-4a81-b024-6bfce64d1534)
+CONTACT
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/3de1a343-7d42-464b-8b56-ac67ef70cd4e)
+SERVICES
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/cf1ff766-4326-4d80-b5ea-33f7c41354d0)
+HEALTH BOT
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/3ea4c181-0128-4ea4-b040-7d6b525589ef)
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/5ae4e468-2e6d-4890-a095-3daa130cef16)
+![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/56840fee-1fd4-4afe-9cbf-794e84982aa4)
+
+
+
