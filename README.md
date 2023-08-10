@@ -2,11 +2,12 @@
 # SS HOSPITALS 
 Health based web application developed for FRT project  
 PROJECT LINK - https://brave-flower-0024d2d00.3.azurestaticapps.net
+---------------------------------------------------------------------
 PROJECT VIDEO DEMO LINK - 
 # AZURE TECHNOLOGIES USED FOR THE PROJECT
 -> Static Web Apps
 -> Health Bot
-
+-------------------------------------------------------------
 Welcome to our comprehensive health resource website, your one-stop destination for expert health guidance and personalized support. Our platform has been meticulously designed to empower you with the knowledge and tools you need to prioritize your well-being and make informed decisions about your health journey.
 
 Deployed using the cutting-edge technology of Azure's Static Web App service, our website ensures a seamless and lightning-fast browsing experience. You can access a wealth of health-related information, articles, and resources at your fingertips, all while benefiting from the reliability and efficiency of Azure's infrastructure.
