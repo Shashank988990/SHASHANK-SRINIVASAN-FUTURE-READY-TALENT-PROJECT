@@ -37,11 +37,8 @@ Explore our user-friendly interface to discover a wide range of topics, includin
 ![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/56840fee-1fd4-4afe-9cbf-794e84982aa4)
 # TECHNOLOGIES USED
 HTML
+
 CSS
-JS
-STATIC WEB APPS
-HEALTH BOT 
-AZURE FOR HOSTING
 
 
 
