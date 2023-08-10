@@ -4,7 +4,7 @@ Health based web application developed for FRT project
 PROJECT LINK - https://brave-flower-0024d2d00.3.azurestaticapps.net
 https://shashank988990.github.io/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/
 --------------------------------------------------------------------
-PROJECT VIDEO DEMO LINK - 
+PROJECT VIDEO DEMO LINK - https://www.youtube.com/watch?v=r4gPKWe6BDE
 ---------------------------------------------------------------
 # AZURE TECHNOLOGIES USED FOR THE PROJECT
 -> Static Web Apps
