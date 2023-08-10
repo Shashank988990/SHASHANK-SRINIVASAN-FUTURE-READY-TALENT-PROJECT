@@ -35,6 +35,13 @@ Explore our user-friendly interface to discover a wide range of topics, includin
 ![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/3ea4c181-0128-4ea4-b040-7d6b525589ef)
 ![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/5ae4e468-2e6d-4890-a095-3daa130cef16)
 ![image](https://github.com/Shashank988990/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/assets/127091254/56840fee-1fd4-4afe-9cbf-794e84982aa4)
+# TECHNOLOGIES USED
+HTML
+CSS
+JS
+STATIC WEB APPS
+HEALTH BOT 
+AZURE FOR HOSTING
 
 
 
