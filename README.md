@@ -1,6 +1,4 @@
-# SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT
 # SS HOSPITALS 
-Health based web application developed for FRT project  
 PROJECT LINK - https://brave-flower-0024d2d00.3.azurestaticapps.net
 https://shashank988990.github.io/SHASHANK-SRINIVASAN-FUTURE-READY-TALENT-PROJECT/
 --------------------------------------------------------------------
